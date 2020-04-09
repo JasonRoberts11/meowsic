@@ -1,7 +1,7 @@
 <template>
   <footer class="hello">
   <h4>
-    <a href="google.com">
+    <a href="https://github.com/JasonRoberts11/meowsic">
       Github
     </a>
     </h4>
